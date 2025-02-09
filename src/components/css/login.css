@@ -1,0 +1,12 @@
+.bg_main {
+  /* background: url("/Users/jerrald.j/Desktop/Gen_UI/gen_ui/src/assets/bg_main.svg"); */
+  background: url("/src/assets/bg_main.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg_text_main {
+  /* background: url("/Users/jerrald.j/Desktop/Gen_UI/gen_ui/src/assets/bg_mqain_text.svg"); */
+  background: url("/src/assets/bg_mqain_text.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
